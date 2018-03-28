@@ -17,7 +17,7 @@ Setting `itemLayout` property with `vertical` to create a vertical list.
 import { List, Avatar, Icon } from 'antd';
 
 const listData = [];
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < 20; i++) {
   listData.push({
     href: 'http://ant.design',
     title: `ant design part ${i}`,
